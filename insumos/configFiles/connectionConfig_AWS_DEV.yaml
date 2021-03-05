@@ -1,0 +1,11 @@
+database:
+    username: maxadivinadb
+    password: maxadivinadb++
+    database: maxadivina
+    host: 
+      - ip-10-0-0-118.us-east-2.compute.internal:27017
+cache:
+    username: aaa
+    password: bbbb
+    database: cccc
+    host: localhost:27017

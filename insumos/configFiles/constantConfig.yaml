@@ -1,0 +1,3 @@
+# Constantes generales
+urlBase: localhost:4200
+urlImagenes: https://s3.amazonaws.com/********

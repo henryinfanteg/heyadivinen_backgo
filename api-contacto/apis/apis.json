@@ -1,0 +1,58 @@
+[    
+    {
+        "id": "API_CONTACTO",
+        "nombre": "API CONTACTO",
+        "descripcion": "",
+        "endpoint": "/api/contacto",
+        "estado": false,
+        "capacidades": [{
+                "nombre": "GetAll",
+                "metodo": "GET",
+                "path": "",
+                "rolMinimo": 2,
+                "permiso": "READ",
+                "estado": true
+            },
+            {
+                "nombre": "GetById",
+                "metodo": "GET",
+                "path": "/:id",
+                "rolMinimo": 2,
+                "permiso": "READ",
+                "estado": true
+            },
+            {
+                "nombre": "Count",
+                "metodo": "GET",
+                "path": "/count",
+                "rolMinimo": 2,
+                "permiso": "READ",
+                "estado": true
+            },
+            {
+                "nombre": "Create",
+                "metodo": "POST",
+                "path": "",
+                "rolMinimo": 2,
+                "permiso": "ADD",
+                "estado": true
+            },
+            {
+                "nombre": "Update",
+                "metodo": "PUT",
+                "path": "/:id",
+                "rolMinimo": 2,
+                "permiso": "UPDATE",
+                "estado": true
+            },
+            {
+                "nombre": "Delete",
+                "metodo": "DELETE",
+                "path": "/:id",
+                "rolMinimo": 1,
+                "permiso": "DELETE",
+                "estado": true
+            }
+        ]
+    }
+]

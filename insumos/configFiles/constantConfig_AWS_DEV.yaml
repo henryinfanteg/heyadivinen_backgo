@@ -1,0 +1,18 @@
+# Constantes generales
+urlBase: http://woh-frontend-dev.s3-website.us-east-1.amazonaws.com
+urlImagenes: https://s3.amazonaws.com/woh-files-dev
+
+# Constantes para los emails
+email:
+    configuraciones:
+        remitenteCorreo: noresponder@woh.com.co
+        remitenteNombre: Words of hope
+    emailActivarUsuario:
+        asunto: Activación de cuenta WOH
+        plantilla: activar-usuario
+    emailRespuestaPregunta:
+        asunto: Nueva respuesta a pregunta WOH
+        plantilla: respuesta-pregunta
+    emailRestablecerContrasena:
+        asunto: Restablecer Contraseña
+        plantilla: restablecer-contrasena

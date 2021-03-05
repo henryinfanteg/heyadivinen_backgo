@@ -1,0 +1,3 @@
+# Endpoints Api Palabras
+endpointApiPalabras: "ip-10-0-0-118.us-east-2.compute.internal:3000/api/palabras/palabras"
+timeoutApiPalabras: 5000

@@ -1,0 +1,7 @@
+# Endpoints Api Palabras
+endpointApiPalabras: "http://localhost:3000/api/palabras/palabras"
+timeoutApiPalabras: 5000
+
+# Endpoints Api Contacto
+endpointApiPalabras: "http://localhost:3001/api/contacto/contacto"
+timeoutApiPalabras: 5000

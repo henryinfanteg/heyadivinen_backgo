@@ -1,0 +1,18 @@
+database:
+    username: wohdb
+    password: wohDev++
+    database: woh
+    host: 
+      - ip-10-0-0-118.us-east-2.compute.internal:27017
+      - ec2-18-188-209-246.us-east-2.compute.amazonaws.com:27017
+cache:
+    username: aaa
+    password: bbbb
+    database: cccc
+    host: localhost:27017
+smtp:
+    user: AKIAQQ5XHU3GT73V7H2Z
+    pass: BKB6nm1SyLraByTmp8311VCNwAAvcne5gyJnfaucXMrI
+    host: email-smtp.us-east-1.amazonaws.com
+    port: 587
+    charSet: UTF-8

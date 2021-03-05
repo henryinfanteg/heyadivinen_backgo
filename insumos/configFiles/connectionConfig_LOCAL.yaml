@@ -1,0 +1,11 @@
+database:
+    username: 
+    password: 
+    database: maxadivina
+    host: 
+      - localhost:27017
+cache:
+    username: aaa
+    password: bbbb
+    database: cccc
+    host: localhost:27017

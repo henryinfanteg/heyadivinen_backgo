@@ -1,0 +1,99 @@
+[
+        {
+                "id": "1",
+                "descripcion": "PELICULAS I",
+                "estado": true,
+                "gratis": true,
+                "precio": 0.0,
+                "icon": "film"
+        },
+        {
+                "id": "2",
+                "descripcion": "SERIES I",
+                "estado": true,
+                "gratis": true,
+                "precio": 0.0,
+                "icon": "tv"
+                
+        },
+        {
+                "id": "3",
+                "descripcion": "ACTORES I",
+                "estado": true,
+                "gratis": true,
+                "precio": 0.0,
+                "icon": "people"
+        },
+        {
+                "id": "4",
+                "descripcion": "LUGARES I",
+                "estado": true,
+                "gratis": true,
+                "precio": 0.0,
+                "icon": "pin"
+        },
+        {
+                "id": "5",
+                "descripcion": "DISNEY I",
+                "estado": true,
+                "gratis": true,
+                "precio": 0.0,
+                "icon": "logo-designernews"
+        },
+        {
+                "id": "6",
+                "descripcion": "SUPERHEROES Y VILLANOS I",
+                "estado": true,
+                "gratis": true,
+                "precio": 0.0,
+                "icon": "ribbon"
+        },
+        {
+                "id": "7",
+                "descripcion": "VIDEOJUEGOS I",
+                "estado": true,
+                "gratis": false,
+                "precio": 1.00,
+                "icon": "logo-game-controller-b"
+        },
+        {
+                "id": "8",
+                "descripcion": "FAMOSOS I",
+                "estado": true,
+                "gratis": false,
+                "precio": 1.00,
+                "icon": "contact"
+        },
+        {
+                "id": "9",
+                "descripcion": "OBJETOS I",
+                "estado": true,
+                "gratis": false,
+                "precio": 1.00,
+                "icon": "cube"
+        },
+        {
+                "id": "10",
+                "descripcion": "CANCIONES I",
+                "estado": true,
+                "gratis": false,
+                "precio": 1.00,
+                "icon": "musical-note"
+        },
+        {
+                "id": "11",
+                "descripcion": "MÚSICOS I",
+                "estado": true,
+                "gratis": false,
+                "precio": 1.00,
+                "icon": "microphone"
+        },
+        {
+                "id": "12",
+                "descripcion": "ACTUACIÓN I",
+                "estado": true,
+                "gratis": false,
+                "precio": 1.00,
+                "icon": "body"
+        }
+]

@@ -1,0 +1,8 @@
+# Key DB password
+secretKeyPassword: "F+;kF;ZWoD|B}qr~"
+
+# Token
+secretKeyAccessToken: "T*Mm:yhw+3^PnO9%cpkf"
+secretKeyRefreshToken: "1U{-XU%NQdd^b+rAB6~="
+tokenType: "Bearer"
+tokenExpire: 3600
