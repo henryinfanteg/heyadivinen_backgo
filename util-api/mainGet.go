@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"sync"
 
-	apiUtil "gitlab.com/adivinagame/backend/maxadivinabackend/util-api/util"
+	apiUtil "github.com/henryinfanteg/heyadivinen_backgo/util-api/util"
 )
 
 type Persona struct {

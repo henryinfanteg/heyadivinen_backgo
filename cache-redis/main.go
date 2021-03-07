@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"gitlab.com/adivinagame/backend/maxadivinabackend/cache-redis/server"
+	"github.com/henryinfanteg/heyadivinen_backgo/cache-redis/server"
 	redis "github.com/go-redis/redis"
 )
 

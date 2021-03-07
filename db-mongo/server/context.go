@@ -4,7 +4,7 @@ import (
 	"errors"
 	"gopkg.in/mgo.v2"
 
-	"gitlab.com/adivinagame/backend/maxadivinabackend/db-mongo/constantes"
+	"github.com/henryinfanteg/heyadivinen_backgo/db-mongo/constantes"
 )
 
 // Context contexto que maneja la session de la BD

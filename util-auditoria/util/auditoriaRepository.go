@@ -6,8 +6,8 @@ import (
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 
-	db "gitlab.com/adivinagame/backend/maxadivinabackend/db-mongo/server"
-	config "gitlab.com/adivinagame/backend/maxadivinabackend/util-auditoria/config"
+	db "github.com/henryinfanteg/heyadivinen_backgo/db-mongo/server"
+	config "github.com/henryinfanteg/heyadivinen_backgo/util-auditoria/config"
 )
 
 // AuditoriaRepository objeto

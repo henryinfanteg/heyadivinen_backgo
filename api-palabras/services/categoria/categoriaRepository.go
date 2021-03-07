@@ -8,11 +8,11 @@ import (
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 
-	"gitlab.com/adivinagame/backend/maxadivinabackend/api-palabras/config"
-	dbConstantes "gitlab.com/adivinagame/backend/maxadivinabackend/db-mongo/constantes"
-	db "gitlab.com/adivinagame/backend/maxadivinabackend/db-mongo/server"
-	dbUtil "gitlab.com/adivinagame/backend/maxadivinabackend/db-mongo/util"
-	apiUtil "gitlab.com/adivinagame/backend/maxadivinabackend/util-api/util"
+	"github.com/henryinfanteg/heyadivinen_backgo/api-palabras/config"
+	dbConstantes "github.com/henryinfanteg/heyadivinen_backgo/db-mongo/constantes"
+	db "github.com/henryinfanteg/heyadivinen_backgo/db-mongo/server"
+	dbUtil "github.com/henryinfanteg/heyadivinen_backgo/db-mongo/util"
+	apiUtil "github.com/henryinfanteg/heyadivinen_backgo/util-api/util"
 )
 
 // CollectionName nombre de la coleccion

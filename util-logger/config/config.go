@@ -1,7 +1,7 @@
 package config
 
 import (
-	db "gitlab.com/adivinagame/backend/maxadivinabackend/db-mongo/server"
+	db "github.com/henryinfanteg/heyadivinen_backgo/db-mongo/server"
 )
 
 var conectionDB db.ConectionDB

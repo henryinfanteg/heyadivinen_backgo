@@ -6,9 +6,9 @@ import (
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 
-	"gitlab.com/adivinagame/backend/maxadivinabackend/api-contacto/config"
-	db "gitlab.com/adivinagame/backend/maxadivinabackend/db-mongo/server"
-	dbUtil "gitlab.com/adivinagame/backend/maxadivinabackend/db-mongo/util"
+	"github.com/henryinfanteg/heyadivinen_backgoapi-contacto/config"
+	db "github.com/henryinfanteg/heyadivinen_backgodb-mongo/server"
+	dbUtil "github.com/henryinfanteg/heyadivinen_backgodb-mongo/util"
 )
 
 // CollectionName nombre de la coleccion

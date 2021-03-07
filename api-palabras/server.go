@@ -7,13 +7,13 @@ import (
 	echo "github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 
-	"gitlab.com/adivinagame/backend/maxadivinabackend/api-palabras/config"
-	"gitlab.com/adivinagame/backend/maxadivinabackend/api-palabras/routers"
-	db "gitlab.com/adivinagame/backend/maxadivinabackend/db-mongo/server"
-	apiUtil "gitlab.com/adivinagame/backend/maxadivinabackend/util-api/util"
-	auditoriaConfig "gitlab.com/adivinagame/backend/maxadivinabackend/util-auditoria/config"
-	loggerConfig "gitlab.com/adivinagame/backend/maxadivinabackend/util-logger/config"
-	logger "gitlab.com/adivinagame/backend/maxadivinabackend/util-logger/util"
+	"github.com/henryinfanteg/heyadivinen_backgo/api-palabras/config"
+	"github.com/henryinfanteg/heyadivinen_backgo/api-palabras/routers"
+	db "github.com/henryinfanteg/heyadivinen_backgo/db-mongo/server"
+	apiUtil "github.com/henryinfanteg/heyadivinen_backgo/util-api/util"
+	auditoriaConfig "github.com/henryinfanteg/heyadivinen_backgo/util-auditoria/config"
+	loggerConfig "github.com/henryinfanteg/heyadivinen_backgo/util-logger/config"
+	logger "github.com/henryinfanteg/heyadivinen_backgo/util-logger/util"
 )
 
 func init() {

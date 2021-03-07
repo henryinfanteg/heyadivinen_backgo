@@ -3,8 +3,8 @@ package util
 import (
 	"gopkg.in/mgo.v2"
 
-	db "gitlab.com/adivinagame/backend/maxadivinabackend/db-mongo/server"
-	config "gitlab.com/adivinagame/backend/maxadivinabackend/util-logger/config"
+	db "github.com/henryinfanteg/heyadivinen_backgo/db-mongo/server"
+	config "github.com/henryinfanteg/heyadivinen_backgo/util-logger/config"
 )
 
 // LoggerRepository objeto

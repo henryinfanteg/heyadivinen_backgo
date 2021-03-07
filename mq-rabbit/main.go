@@ -1,7 +1,7 @@
 package main
 
 import (
-	server "gitlab.com/adivinagame/backend/maxadivinabackend/mq-rabbit/server"
+	server "github.com/henryinfanteg/heyadivinen_backgo/mq-rabbit/server"
 )
 
 func main() {

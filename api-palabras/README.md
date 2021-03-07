@@ -4,14 +4,14 @@ Proyecto api de palabras
 
 ## Obtener todos los paquetes
 
-go get -d -u gitlab.com/adivinagame/backend/maxadivinabackend/api-palabras/...
+go get -d -u github.com/henryinfanteg/heyadivinen_backgo/api-palabras/...
 
 ## Crear Modulo
 
 export GO111MODULE=auto
 export GO111MODULE=on
 
-go mod init gitlab.com/adivinagame/backend/maxadivinabackend/api-palabras
+go mod init github.com/henryinfanteg/heyadivinen_backgo/api-palabras
 
 ## Docker
 

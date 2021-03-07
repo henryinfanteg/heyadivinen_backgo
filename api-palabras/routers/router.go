@@ -3,8 +3,8 @@ package routers
 import (
 	echo "github.com/labstack/echo"
 
-	categoriaService "gitlab.com/adivinagame/backend/maxadivinabackend/api-palabras/services/categoria"
-	palabraService "gitlab.com/adivinagame/backend/maxadivinabackend/api-palabras/services/palabra"
+	categoriaService "github.com/henryinfanteg/heyadivinen_backgo/api-palabras/services/categoria"
+	palabraService "github.com/henryinfanteg/heyadivinen_backgo/api-palabras/services/palabra"
 )
 
 // PATH de la api

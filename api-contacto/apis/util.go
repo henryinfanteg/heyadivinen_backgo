@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"io/ioutil"
 
-	authUtil "gitlab.com/adivinagame/backend/maxadivinabackend/util-auth/util"
+	authUtil "github.com/henryinfanteg/heyadivinen_backgo/util-auth/util"
 )
 
 var APIMap map[string]API

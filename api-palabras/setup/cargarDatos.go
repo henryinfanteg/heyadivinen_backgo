@@ -8,9 +8,9 @@ import (
 
 	"gopkg.in/mgo.v2/bson"
 
-	"gitlab.com/adivinagame/backend/maxadivinabackend/api-palabras/config"
-	categoriaService "gitlab.com/adivinagame/backend/maxadivinabackend/api-palabras/services/categoria"
-	palabraService "gitlab.com/adivinagame/backend/maxadivinabackend/api-palabras/services/palabra"
+	"github.com/henryinfanteg/heyadivinen_backgo/api-palabras/config"
+	categoriaService "github.com/henryinfanteg/heyadivinen_backgo/api-palabras/services/categoria"
+	palabraService "github.com/henryinfanteg/heyadivinen_backgo/api-palabras/services/palabra"
 )
 
 func main() {

@@ -3,7 +3,7 @@ package routers
 import (
 	echo "github.com/labstack/echo/v4"
 
-	contactoService "gitlab.com/adivinagame/backend/maxadivinabackend/api-contacto/services/contacto"
+	contactoService "github.com/henryinfanteg/heyadivinen_backgoapi-contacto/services/contacto"
 )
 
 // PATH de la api

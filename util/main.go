@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	random "gitlab.com/adivinagame/backend/maxadivinabackend/util/random"
-	security "gitlab.com/adivinagame/backend/maxadivinabackend/util/security"
+	random "github.com/henryinfanteg/heyadivinen_backgo/util/random"
+	security "github.com/henryinfanteg/heyadivinen_backgo/util/security"
 )
 
 func main() {
