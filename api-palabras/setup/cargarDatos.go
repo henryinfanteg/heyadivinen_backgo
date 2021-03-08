@@ -8,9 +8,9 @@ import (
 
 	"gopkg.in/mgo.v2/bson"
 
-	"github.com/henryinfanteg/heyadivinen_backgo/tree/master/tree/master/api-palabras/config"
-	categoriaService "github.com/henryinfanteg/heyadivinen_backgo/tree/master/tree/master/api-palabras/services/categoria"
-	palabraService "github.com/henryinfanteg/heyadivinen_backgo/tree/master/tree/master/api-palabras/services/palabra"
+	"github.com/henryinfanteg/heyadivinen_backgo/api-palabras/config"
+	categoriaService "github.com/henryinfanteg/heyadivinen_backgo/api-palabras/services/categoria"
+	palabraService "github.com/henryinfanteg/heyadivinen_backgo/api-palabras/services/palabra"
 )
 
 func main() {

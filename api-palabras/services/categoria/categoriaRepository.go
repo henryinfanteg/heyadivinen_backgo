@@ -8,11 +8,11 @@ import (
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 
-	"github.com/henryinfanteg/heyadivinen_backgo/tree/master/tree/master/api-palabras/config"
-	dbConstantes "github.com/henryinfanteg/heyadivinen_backgo/tree/master/db-mongo/constantes"
-	db "github.com/henryinfanteg/heyadivinen_backgo/tree/master/db-mongo/server"
-	dbUtil "github.com/henryinfanteg/heyadivinen_backgo/tree/master/db-mongo/util"
-	apiUtil "github.com/henryinfanteg/heyadivinen_backgo/tree/master/util-api/util"
+	"github.com/henryinfanteg/heyadivinen_backgo/api-palabras/config"
+	dbConstantes "github.com/henryinfanteg/heyadivinen_backgo/db-mongo/constantes"
+	db "github.com/henryinfanteg/heyadivinen_backgo/db-mongo/server"
+	dbUtil "github.com/henryinfanteg/heyadivinen_backgo/db-mongo/util"
+	apiUtil "github.com/henryinfanteg/heyadivinen_backgo/util-api/util"
 )
 
 // CollectionName nombre de la coleccion

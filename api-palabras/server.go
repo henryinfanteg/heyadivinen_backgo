@@ -7,13 +7,13 @@ import (
 	echo "github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 
-	"github.com/henryinfanteg/heyadivinen_backgo/tree/master/tree/master/api-palabras/config"
-	"github.com/henryinfanteg/heyadivinen_backgo/tree/master/tree/master/api-palabras/routers"
-	db "github.com/henryinfanteg/heyadivinen_backgo/tree/master/db-mongo/server"
-	apiUtil "github.com/henryinfanteg/heyadivinen_backgo/tree/master/util-api/util"
-	auditoriaConfig "github.com/henryinfanteg/heyadivinen_backgo/tree/master/util-auditoria/config"
-	loggerConfig "github.com/henryinfanteg/heyadivinen_backgo/tree/master/util-logger/config"
-	logger "github.com/henryinfanteg/heyadivinen_backgo/tree/master/util-logger/util"
+	"github.com/henryinfanteg/heyadivinen_backgo/api-palabras/config"
+	"github.com/henryinfanteg/heyadivinen_backgo/api-palabras/routers"
+	db "github.com/henryinfanteg/heyadivinen_backgo/db-mongo/server"
+	apiUtil "github.com/henryinfanteg/heyadivinen_backgo/util-api/util"
+	auditoriaConfig "github.com/henryinfanteg/heyadivinen_backgo/util-auditoria/config"
+	loggerConfig "github.com/henryinfanteg/heyadivinen_backgo/util-logger/config"
+	logger "github.com/henryinfanteg/heyadivinen_backgo/util-logger/util"
 )
 
 func init() {

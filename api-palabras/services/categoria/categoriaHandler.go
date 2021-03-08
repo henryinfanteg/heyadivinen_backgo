@@ -7,10 +7,10 @@ import (
 	echo "github.com/labstack/echo"
 	mgo "gopkg.in/mgo.v2"
 
-	dbConstantes "github.com/henryinfanteg/heyadivinen_backgo/tree/master/db-mongo/constantes"
-	apiUtil "github.com/henryinfanteg/heyadivinen_backgo/tree/master/util-api/util"
-	auditoriaUtil "github.com/henryinfanteg/heyadivinen_backgo/tree/master/util-auditoria/util"
-	logger "github.com/henryinfanteg/heyadivinen_backgo/tree/master/util-logger/util"
+	dbConstantes "github.com/henryinfanteg/heyadivinen_backgo/db-mongo/constantes"
+	apiUtil "github.com/henryinfanteg/heyadivinen_backgo/util-api/util"
+	auditoriaUtil "github.com/henryinfanteg/heyadivinen_backgo/util-auditoria/util"
+	logger "github.com/henryinfanteg/heyadivinen_backgo/util-logger/util"
 )
 
 // CategoriaHandler objeto

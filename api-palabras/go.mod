@@ -1,3 +1,3 @@
-module github.com/henryinfanteg/heyadivinen_backgo/tree/master/api-palabras
+module github.com/henryinfanteg/heyadivinen_backgo/api-palabras
 
 go 1.16
