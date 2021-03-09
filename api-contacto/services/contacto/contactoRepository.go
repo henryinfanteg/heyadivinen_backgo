@@ -6,8 +6,8 @@ import (
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 
-	"github.com/henryinfanteg/heyadivinen_backgoapi-contacto/config"
-	db "github.com/henryinfanteg/heyadivinen_backgodb-mongo/server"
+	"github.com/henryinfanteg/heyadivinen_backgo/api-contacto/config"
+	db "github.com/henryinfanteg/heyadivinen_backgo/db-mongo/server"
 	dbUtil "github.com/henryinfanteg/heyadivinen_backgodb-mongo/util"
 )
 
