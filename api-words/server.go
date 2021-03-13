@@ -7,8 +7,8 @@ import (
 	echo "github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 
-	"github.com/henryinfanteg/heyadivinen_backgo/api-palabras/config"
-	"github.com/henryinfanteg/heyadivinen_backgo/api-palabras/routers"
+	"github.com/henryinfanteg/heyadivinen_backgo/api-words/config"
+	"github.com/henryinfanteg/heyadivinen_backgo/api-words/routers"
 	db "github.com/henryinfanteg/heyadivinen_backgo/db-mongo/server"
 	apiUtil "github.com/henryinfanteg/heyadivinen_backgo/util-api/util"
 	auditoriaConfig "github.com/henryinfanteg/heyadivinen_backgo/util-auditoria/config"

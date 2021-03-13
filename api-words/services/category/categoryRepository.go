@@ -8,7 +8,7 @@ import (
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 
-	"github.com/henryinfanteg/heyadivinen_backgo/api-palabras/config"
+	"github.com/henryinfanteg/heyadivinen_backgo/api-words/config"
 	dbConstantes "github.com/henryinfanteg/heyadivinen_backgo/db-mongo/constantes"
 	db "github.com/henryinfanteg/heyadivinen_backgo/db-mongo/server"
 	dbUtil "github.com/henryinfanteg/heyadivinen_backgo/db-mongo/util"
@@ -32,9 +32,9 @@ var indexUnique = mgo.Index{
 
 // Parametros
 var typeFields = map[string]string{
-	"description":      dbUtil.TypeString,
-	"status":           dbUtil.TypeBoolean,
-	"free":             dbUtil.TypeBoolean,
+	"description": dbUtil.TypeString,
+	"status":      dbUtil.TypeBoolean,
+	"free":        dbUtil.TypeBoolean,
 }
 
 func (repository *CategoryRepository) initContext() {
@@ -124,16 +124,16 @@ func (repository CategoryRepository) Update(id string, obj *Category, userModify
 		return errors.New(dbConstantes.ErrorDatabaseInvalidID)
 	}
 
-	obj.FechaModificacion = time.Now()
-	obj.UsuarioModificacion = userModify
+	obj.DateModify = time.Now()
+	obj.UserModify = userModify
 	obj.ID = bson.ObjectIdHex(id)
 
 	// err := repository.c.UpdateId(obj.ID, &obj)
 	err := repository.c.UpdateId(obj.ID,
 		bson.M{"$set": bson.M{
-			"description":  obj.Description,
-			"dateModify":   obj.DateModify,
-			"userModify": 	obj.UserModify,
+			"description": obj.Description,
+			"dateModify":  obj.DateModify,
+			"userModify":  obj.UserModify,
 		}})
 	return err
 }

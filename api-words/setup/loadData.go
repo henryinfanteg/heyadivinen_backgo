@@ -8,7 +8,7 @@ import (
 
 	"gopkg.in/mgo.v2/bson"
 
-	"github.com/henryinfanteg/heyadivinen_backgo/api-palabras/config"
+	"github.com/henryinfanteg/heyadivinen_backgo/api-words/config"
 	categoryService "github.com/henryinfanteg/heyadivinen_backgo/api-words/services/category"
 )
 
