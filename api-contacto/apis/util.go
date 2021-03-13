@@ -3,8 +3,6 @@ package apis
 import (
 	"encoding/json"
 	"io/ioutil"
-
-	authUtil "github.com/henryinfanteg/heyadivinen_backgo/util-auth/util"
 )
 
 var APIMap map[string]API
@@ -59,23 +57,4 @@ func llenarCapacidades() error {
 		}
 	}
 	return err
-}
-
-// ValidarPermisos valida los permisos de un servicio
-func ValidarPermisos(method string, path string, token string) (acceso bool, err error) {
-	// Llenamos las capacidades
-	err = llenarCapacidades()
-	if err != nil {
-		return false, err
-	}
-
-	// fmt.Println(method + "_" + path)
-
-	// Buscamos la capacidad
-	capacidad := capacidades[method+"_"+path]
-	if &capacidad == nil {
-		return false, err
-	}
-
-	return authUtil.ValidarAccesoByToken(token, capacidad.RolMinimo, capacidad.Permiso)
 }

@@ -6,13 +6,13 @@
 	},
 	"item": [
 		{
-			"name": "Api - palabras",
+			"name": "Api - words",
 			"item": [
 				{
-					"name": "palabras",
+					"name": "words",
 					"item": [
 						{
-							"name": "palabras - getAll",
+							"name": "words - getAll",
 							"request": {
 								"method": "GET",
 								"header": [
@@ -35,21 +35,21 @@
 									}
 								],
 								"url": {
-									"raw": "{{maxadivina-palabras}}/api/palabras/palabras",
+									"raw": "{{maxadivina-words}}/api/words/words",
 									"host": [
-										"{{maxadivina-palabras}}"
+										"{{maxadivina-words}}"
 									],
 									"path": [
 										"api",
-										"palabras",
-										"palabras"
+										"words",
+										"words"
 									]
 								}
 							},
 							"response": []
 						},
 						{
-							"name": "palabras - getAllByCategoriaId",
+							"name": "words - getAllByCategoriaId",
 							"request": {
 								"method": "GET",
 								"header": [
@@ -72,14 +72,14 @@
 									}
 								],
 								"url": {
-									"raw": "{{maxadivina-palabras}}/api/palabras/palabras/1",
+									"raw": "{{maxadivina-words}}/api/words/words/1",
 									"host": [
-										"{{maxadivina-palabras}}"
+										"{{maxadivina-words}}"
 									],
 									"path": [
 										"api",
-										"palabras",
-										"palabras",
+										"words",
+										"words",
 										"1"
 									]
 								}
@@ -87,7 +87,7 @@
 							"response": []
 						},
 						{
-							"name": "palabras - count",
+							"name": "words - count",
 							"request": {
 								"method": "GET",
 								"header": [
@@ -110,14 +110,14 @@
 									}
 								],
 								"url": {
-									"raw": "{{maxadivina-palabras}}/api/palabras/palabras/count",
+									"raw": "{{maxadivina-words}}/api/words/words/count",
 									"host": [
-										"{{maxadivina-palabras}}"
+										"{{maxadivina-words}}"
 									],
 									"path": [
 										"api",
-										"palabras",
-										"palabras",
+										"words",
+										"words",
 										"count"
 									]
 								}
@@ -125,7 +125,7 @@
 							"response": []
 						},
 						{
-							"name": "palabras - add",
+							"name": "words - add",
 							"request": {
 								"method": "POST",
 								"header": [
@@ -152,21 +152,21 @@
 									"raw": "{\n\t\"pregunta\": \"Que es la gripa y como es la mejor forma de curarla?\",\n    \"categoriaId\": \"1\",\n    \"genero\": \"hombre\",\n    \"edad\": 27,\n    \"usuarioId\": \"5c4d2df202d0a96084babd99\"\n}"
 								},
 								"url": {
-									"raw": "{{maxadivina-palabras}}/api/palabras/palabras",
+									"raw": "{{maxadivina-words}}/api/words/words",
 									"host": [
-										"{{maxadivina-palabras}}"
+										"{{maxadivina-words}}"
 									],
 									"path": [
 										"api",
-										"palabras",
-										"palabras"
+										"words",
+										"words"
 									]
 								}
 							},
 							"response": []
 						},
 						{
-							"name": "palabras - update",
+							"name": "words - update",
 							"request": {
 								"method": "PUT",
 								"header": [
@@ -193,14 +193,14 @@
 									"raw": "{\n    \"pregunta\": \"Hola como te llamas 2?\",\n    \"categoriaId\": \"1\"\n}"
 								},
 								"url": {
-									"raw": "{{maxadivina-palabras}}/api/palabras/palabras/5c533996b02ea7346c631af9",
+									"raw": "{{maxadivina-words}}/api/words/words/5c533996b02ea7346c631af9",
 									"host": [
-										"{{maxadivina-palabras}}"
+										"{{maxadivina-words}}"
 									],
 									"path": [
 										"api",
-										"palabras",
-										"palabras",
+										"words",
+										"words",
 										"5c533996b02ea7346c631af9"
 									]
 								}
@@ -208,7 +208,7 @@
 							"response": []
 						},
 						{
-							"name": "palabras - delete",
+							"name": "words - delete",
 							"request": {
 								"method": "DELETE",
 								"header": [
@@ -235,14 +235,14 @@
 									"raw": ""
 								},
 								"url": {
-									"raw": "{{maxadivina-palabras}}/api/palabras/palabras/5c533996b02ea7346c631af9",
+									"raw": "{{maxadivina-words}}/api/words/words/5c533996b02ea7346c631af9",
 									"host": [
-										"{{maxadivina-palabras}}"
+										"{{maxadivina-words}}"
 									],
 									"path": [
 										"api",
-										"palabras",
-										"palabras",
+										"words",
+										"words",
 										"5c533996b02ea7346c631af9"
 									]
 								}
@@ -256,7 +256,7 @@
 			"name": "Categorias",
 			"item": [
 				{
-					"name": "categorias - getAll",
+					"name": "categories - getAll",
 					"request": {
 						"method": "GET",
 						"header": [
@@ -279,21 +279,21 @@
 							}
 						],
 						"url": {
-							"raw": "{{maxadivina-palabras}}/api/palabras/categorias",
+							"raw": "{{maxadivina-words}}/api/words/categories",
 							"host": [
-								"{{maxadivina-palabras}}"
+								"{{maxadivina-words}}"
 							],
 							"path": [
 								"api",
-								"palabras",
-								"categorias"
+								"words",
+								"categories"
 							]
 						}
 					},
 					"response": []
 				},
 				{
-					"name": "categorias - getById",
+					"name": "categories - getById",
 					"request": {
 						"method": "GET",
 						"header": [
@@ -316,14 +316,14 @@
 							}
 						],
 						"url": {
-							"raw": "{{maxadivina-palabras}}/api/palabras/categorias/5c533996b02ea7346c631af9",
+							"raw": "{{maxadivina-words}}/api/words/categories/5c533996b02ea7346c631af9",
 							"host": [
-								"{{maxadivina-palabras}}"
+								"{{maxadivina-words}}"
 							],
 							"path": [
 								"api",
-								"palabras",
-								"categorias",
+								"words",
+								"categories",
 								"5c533996b02ea7346c631af9"
 							]
 						}
@@ -331,7 +331,7 @@
 					"response": []
 				},
 				{
-					"name": "categorias - count",
+					"name": "categories - count",
 					"request": {
 						"method": "GET",
 						"header": [
@@ -354,14 +354,14 @@
 							}
 						],
 						"url": {
-							"raw": "{{maxadivina-palabras}}/api/palabras/categorias/count",
+							"raw": "{{maxadivina-words}}/api/words/categories/count",
 							"host": [
-								"{{maxadivina-palabras}}"
+								"{{maxadivina-words}}"
 							],
 							"path": [
 								"api",
-								"palabras",
-								"categorias",
+								"words",
+								"categories",
 								"count"
 							]
 						}
@@ -369,7 +369,7 @@
 					"response": []
 				},
 				{
-					"name": "categorias - add",
+					"name": "categories - add",
 					"request": {
 						"method": "POST",
 						"header": [
@@ -396,21 +396,21 @@
 							"raw": "{\n    \"id\": \"25.0\",\n    \"descripcion\": \"OTRA\",\n    \"categoriaPadreId\": \"\",\n    \"estado\": true\n}"
 						},
 						"url": {
-							"raw": "{{maxadivina-palabras}}/api/palabras/categorias",
+							"raw": "{{maxadivina-words}}/api/words/categories",
 							"host": [
-								"{{maxadivina-palabras}}"
+								"{{maxadivina-words}}"
 							],
 							"path": [
 								"api",
-								"palabras",
-								"categorias"
+								"words",
+								"categories"
 							]
 						}
 					},
 					"response": []
 				},
 				{
-					"name": "categorias - update",
+					"name": "categories - update",
 					"request": {
 						"method": "PUT",
 						"header": [
@@ -437,14 +437,14 @@
 							"raw": "{\n    \"id\": \"25.0\",\n    \"descripcion\": \"OTRA 2\",\n    \"categoriaPadreId\": \"25.1\",\n    \"estado\": true\n}"
 						},
 						"url": {
-							"raw": "{{maxadivina-palabras}}/api/palabras/categorias/5c8d1cf802d0a95b3c1f081a",
+							"raw": "{{maxadivina-words}}/api/words/categories/5c8d1cf802d0a95b3c1f081a",
 							"host": [
-								"{{maxadivina-palabras}}"
+								"{{maxadivina-words}}"
 							],
 							"path": [
 								"api",
-								"palabras",
-								"categorias",
+								"words",
+								"categories",
 								"5c8d1cf802d0a95b3c1f081a"
 							]
 						}
@@ -452,7 +452,7 @@
 					"response": []
 				},
 				{
-					"name": "categorias - delete",
+					"name": "categories - delete",
 					"request": {
 						"method": "DELETE",
 						"header": [
@@ -479,14 +479,14 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "{{maxadivina-palabras}}/api/palabras/categorias/5c533996b02ea7346c631af9",
+							"raw": "{{maxadivina-words}}/api/words/categories/5c533996b02ea7346c631af9",
 							"host": [
-								"{{maxadivina-palabras}}"
+								"{{maxadivina-words}}"
 							],
 							"path": [
 								"api",
-								"palabras",
-								"categorias",
+								"words",
+								"categories",
 								"5c533996b02ea7346c631af9"
 							]
 						}
@@ -528,9 +528,9 @@
 							}
 						],
 						"url": {
-							"raw": "{{maxadivina-palabras}}/api/contacto/contacto",
+							"raw": "{{maxadivina-words}}/api/contacto/contacto",
 							"host": [
-								"{{maxadivina-palabras}}"
+								"{{maxadivina-words}}"
 							],
 							"path": [
 								"api",
@@ -565,9 +565,9 @@
 							}
 						],
 						"url": {
-							"raw": "{{maxadivina-palabras}}/api/contacto/contacto/5c533996b02ea7346c631af9",
+							"raw": "{{maxadivina-words}}/api/contacto/contacto/5c533996b02ea7346c631af9",
 							"host": [
-								"{{maxadivina-palabras}}"
+								"{{maxadivina-words}}"
 							],
 							"path": [
 								"api",
@@ -603,9 +603,9 @@
 							}
 						],
 						"url": {
-							"raw": "{{maxadivina-palabras}}/api/contacto/contacto/count",
+							"raw": "{{maxadivina-words}}/api/contacto/contacto/count",
 							"host": [
-								"{{maxadivina-palabras}}"
+								"{{maxadivina-words}}"
 							],
 							"path": [
 								"api",
@@ -645,9 +645,9 @@
 							"raw": "{\n    \"correo\": \"henfante90@hotmail.com\",\n    \"asunto\": \"Reclamo\",\n    \"descripcion\": \"Esto es un mensaje de prueba\",\n    \"estado\": \"Pendiente\"\n}"
 						},
 						"url": {
-							"raw": "{{maxadivina-palabras}}/api/contacto/contacto",
+							"raw": "{{maxadivina-words}}/api/contacto/contacto",
 							"host": [
-								"{{maxadivina-palabras}}"
+								"{{maxadivina-words}}"
 							],
 							"path": [
 								"api",
@@ -686,9 +686,9 @@
 							"raw": "{\n    \"correo\": \"henfante90@hotmail.com\",\n    \"asunto\": \"Reclamo\",\n    \"descripcion\": \"Esto es un mensaje de prueba\",\n    \"estado\": \"Pendiente\"\n}"
 						},
 						"url": {
-							"raw": "{{maxadivina-palabras}}/api/contacto/contacto/5c8d1cf802d0a95b3c1f081a",
+							"raw": "{{maxadivina-words}}/api/contacto/contacto/5c8d1cf802d0a95b3c1f081a",
 							"host": [
-								"{{maxadivina-palabras}}"
+								"{{maxadivina-words}}"
 							],
 							"path": [
 								"api",
@@ -728,14 +728,14 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "{{maxadivina-palabras}}/api/palabras/categorias/5c533996b02ea7346c631af9",
+							"raw": "{{maxadivina-words}}/api/words/categories/5c533996b02ea7346c631af9",
 							"host": [
-								"{{maxadivina-palabras}}"
+								"{{maxadivina-words}}"
 							],
 							"path": [
 								"api",
-								"palabras",
-								"categorias",
+								"words",
+								"categories",
 								"5c533996b02ea7346c631af9"
 							]
 						}

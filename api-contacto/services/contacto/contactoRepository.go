@@ -8,7 +8,7 @@ import (
 
 	"github.com/henryinfanteg/heyadivinen_backgo/api-contacto/config"
 	db "github.com/henryinfanteg/heyadivinen_backgo/db-mongo/server"
-	dbUtil "github.com/henryinfanteg/heyadivinen_backgodb-mongo/util"
+	dbUtil "github.com/henryinfanteg/heyadivinen_backgo/db-mongo/util"
 )
 
 // CollectionName nombre de la coleccion

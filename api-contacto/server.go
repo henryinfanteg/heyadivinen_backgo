@@ -12,7 +12,6 @@ import (
 	db "github.com/henryinfanteg/heyadivinen_backgo/db-mongo/server"
 	apiUtil "github.com/henryinfanteg/heyadivinen_backgo/util-api/util"
 	auditoriaConfig "github.com/henryinfanteg/heyadivinen_backgo/util-auditoria/config"
-	authUtil "github.com/henryinfanteg/heyadivinen_backgo/util-auth/util"
 	loggerConfig "github.com/henryinfanteg/heyadivinen_backgo/util-logger/config"
 	logger "github.com/henryinfanteg/heyadivinen_backgo/util-logger/util"
 )
@@ -61,22 +60,9 @@ func middlewareValidarPermiso(next echo.HandlerFunc) echo.HandlerFunc {
 		// Obtenemos el nombre de la api
 		nombreAPI := apiUtil.GetAPIToPath("contacto", c.Path())
 
-		// Obtenemos el token y username
-		token := authUtil.GetTokenByHeader(c.Request().Header.Get(echo.HeaderAuthorization))
-		username, errUsername := authUtil.GetUsernameByToken(token)
-
-		// Validamos el username
-		if errUsername != nil {
-			go logger.PrintLog(nombreAPI, logger.ERROR, c.RealIP(), apiUtil.GetIPServer().String(), c.Request().Method, c.Request().Header, username, c.Request().Host+c.Path(), http.StatusUnauthorized, authUtil.ErrorInvalidToken)
-			return &echo.HTTPError{
-				Code:    http.StatusUnauthorized,
-				Message: authUtil.ErrorInvalidToken,
-			}
-		}
-
 		// Validamos los headers obligatorios
 		if !apiUtil.ValidarHeaders(c.Request().Header) {
-			go logger.PrintLog(nombreAPI, logger.ERROR, c.RealIP(), apiUtil.GetIPServer().String(), c.Request().Method, c.Request().Header, username, c.Request().Host+c.Path(), http.StatusBadRequest, apiUtil.ErrorHeaderNotFound)
+			go logger.PrintLog(nombreAPI, logger.ERROR, c.RealIP(), apiUtil.GetIPServer().String(), c.Request().Method, c.Request().Header, "username", c.Request().Host+c.Path(), http.StatusBadRequest, apiUtil.ErrorHeaderNotFound)
 			return &echo.HTTPError{
 				Code:    http.StatusBadRequest,
 				Message: apiUtil.ErrorHeaderNotFound,
