@@ -1,0 +1,2570 @@
+[
+        {
+                "id": "1",
+                "descripcion": "PELICULAS I",
+                "estado": true,
+                "palabras": [
+                        {
+                                "palabra": "Titanic",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Eso",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Harry Potter",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "El rey león",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Avatar",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Piratas del caribe",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "El señor de los anillos",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Parque jurasico",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Crepúsculo",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "E.T.",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Transformers",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "El código Da Vinci",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Indiana Jones",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Día de la independencia",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La guerra de las galaxias",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "El origen",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Matrix",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "El padrino",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Forrest Gump",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La lista de Schindler",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Pearl Harbor",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La vida es bella",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Corazón valiente",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La naranja mecánica",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "El proyecto de la bruja de Blair",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Gladiador",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Armageddon",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Mar adentro",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "300",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Loco por Mary",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Misión imposible",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Austin powers",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Una película de miedo",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La pasión de cristo",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Lo que el viento se llevó",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La guerra de los mundos",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Rescatando al soldado Ryan",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Diario de una pasión",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "El club de la pelea",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Kill Bill",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Mi pobre angelito",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Los angeles de Charlie",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "King Kong",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Godzilla",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Sr. & Sra. Smith",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Rocky",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Troya",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Top Gun",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Volver al futuro",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "El cisne negro",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Los juegos del hambre",
+                                "pista": ""
+                        }
+                ],
+                "gratis": true,
+                "precio": 0.0,
+                "icon": "film"
+        },
+        {
+                "id": "2",
+                "descripcion": "SERIES I",
+                "estado": true,
+                "palabras": [
+                        {
+                                "palabra": "Flash",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Arrow",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Smallville",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "The sinner",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Mindhunter",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Game of thrones",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Stranger things",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Por trece razones",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Los simpson",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Friends",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La teoria del bing bang",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Dos hombres y medio",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Modern family",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Walking dead",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Lost",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Heroes",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "El mentalista",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "CSI",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "24",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Prison Break",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Expedientes secretos X",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "South park",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Guardianes de la bahía",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Supergirl",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La ley y el orden",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Alf",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Breaking bad",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Vikingos",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Sobrenatural",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "The good doctor",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Chernobyl",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Dexter",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Dark",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "House of cards",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Spartacus",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "House",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La casa de papel",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Daredevil",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Narcos",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Lucifer",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Los 100",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Black mirror",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "The blacklist",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Sense8",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Criminal minds",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "American Horror story",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Grey's Anatomy",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Dragon Ball",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Glee",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Bates motel",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Gotham",
+                                "pista": ""
+                        }
+                ],
+                "gratis": true,
+                "precio": 0.0,
+                "icon": "tv"
+        },
+        {
+                "id": "3",
+                "descripcion": "ACTORES I",
+                "estado": true,
+                "palabras": [
+                        {
+                                "palabra": "Pierce Brosnan",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Brad Pitt",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Tom Cruise",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Will Smith",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Leonardo DiCaprio",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Robert Downey Jr.",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Dwayne Johnson",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Johnny Deep",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Angeline Jolie",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Tom Hanks",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Ben Affleck",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Arnold Schwarzenegger",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Scarlett Johansson",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Robert De Niro",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "George Clooney",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Harrison Ford",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Jason Statham",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Kristen Stewart",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Nicolas Cage",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Christian Bale",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Sylvester Stallone",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Keanu Reeves",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Gal Gadot",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Morgan Freeman",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Jack Nicholson",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Natalie Portman",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Al Pacino",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Clint Eastwood",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Bruce Willis",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Vin Diesel",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Jennifer Lopez",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Jennifer Lawrence",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Anthony Hopkins",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Mel Gibson",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Jim Carrey",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Matt Damon",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Robin Williams",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Kevin Spacey",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Sean Penn",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Nicole Kidman",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Adam Sandler",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Russell Crowe",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Jackie Chan",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Jennifer Aniston",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Sandra Bullock",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Cameron Diaz",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Eddie Murphy",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Ben Stiller",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Julia Roberts",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Owen Wilson",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Megan Fox",
+                                "pista": ""
+                        }
+                ],
+                "gratis": true,
+                "precio": 0.0,
+                "icon": "people"
+        },
+        {
+                "id": "4",
+                "descripcion": "LUGARES I",
+                "estado": true,
+                "palabras": [
+                        {
+                                "palabra": "Campos Eliseos",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Gran cañon",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Torre Eiffel",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Torre de pisa",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Coliseo Romano",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La isla de pascua",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Taj Mahal",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La muralla china",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Estatua de la libertad",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Note Drame",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Piramides de Giza",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Golden Gate",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Cristo redentor",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Chichén itza",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Basílica de San Pedro",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Machu Picchu",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Puerta de Alcalá",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Times Square",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Cataratas del Niágara",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Cataratas de Iguazú",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Salto del Ángel",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Stonehenge",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Puerta de Brandenburgo",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Puente de los suspiros",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La Ciudad Prohibida",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Teatro de la Ópera",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Monte Rushmore",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Torres Petronas",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Panteón",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Muro de Berlín",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Capitolio",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "El pentágono",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La casa blanca",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Templo de Bayon",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Templo Dorado",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Museo del Louvre",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Capilla Sixtina",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Perito Moreno",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Burj al arab",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Islas Galápagos",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Petra",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Desierto de Sahara",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Isla Tasmania",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Monte Saint-Michel",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Everest",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Guerreros de Terracota",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "El río Nilo",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Centro espacial kennedy",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Catedral de la Sagrada Familia ",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Isla Bora Bora",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Palacio de Versalles",
+                                "pista": ""
+                        }
+                ],
+                "gratis": true,
+                "precio": 0.0,
+                "icon": "pin"
+        },
+        {
+                "id": "5",
+                "descripcion": "DISNEY I",
+                "estado": true,
+                "palabras": [
+                        {
+                                "palabra": "Toy Story",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Buscando a Nemo",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Up",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Alicia en el país de las maravillas",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Las crónicas de Narnia",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Aladdin",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Frozen",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Coco",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Moana",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Zootopia",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Maléfica",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Intensa-mente",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Valiente",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Ralph el demoledor",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Enredados",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Wall-E",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Ratatouille",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Cars",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La sirenita",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Mulan",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Blancanieves y los siete enanitos",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "El jorobado Notre Dame",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La cenicienta",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Hercules",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Bambi",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La bella durmiente",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Pocahontas",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Peter Pan",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "101 Dalmatas",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Pinocho",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Tarzán",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Monster Inc.",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Lilo y Stich",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Dumbo",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "El libro de la selva",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La espada en la piedra",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Atlantis",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Anastasia",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Las locuras del emperador",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La princesa y el sapo",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Los increibles",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "El planeta del tesoro",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Los aristogatos",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Bernardo y Bianca",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Mickey Mouse",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Big Hero",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La dama y el vagabundo",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Encantada",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Mary Poppins",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Robin Hood",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Bolt",
+                                "pista": ""
+                        }
+                ],
+                "gratis": true,
+                "precio": 0.0,
+                "icon": "logo-designernews"
+        },
+        {
+                "id": "6",
+                "descripcion": "SUPERHEROES Y VILLANOS I",
+                "estado": true,
+                "palabras": [
+                        {
+                                "palabra": "Spider-Man",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Batman",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Flash",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Arrow",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Daredevil",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Deadpool",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Thor",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Ironman",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Tanos",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Antman",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Joker",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Mujer Maravilla",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Harley Quinn",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Linterna verde",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Aquaman",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Gatubela",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Robin",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Hiedra venenosa",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Shazam",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Espantapajaros",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Lex Lutor",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "El acertijo",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Killer frost",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Capitan frio",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Flash reverso",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Zoom",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "El pingüino",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Kid flash",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Dr. Strange",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Wolverine",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Tormenta",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Gambito",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Phoenix",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Capitan America",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Hulk",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Hellboy",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Silver surfer",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Pantera negra",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Steel",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Cíclope",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Magneto",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Venom",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Blade",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Bestia",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "The punisher",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La mole",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Capitan Marvel",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Dr. Octopus",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Ra´s Al Ghul",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Dos caras",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Ultrón",
+                                "pista": ""
+                        }
+                ],
+                "gratis": true,
+                "precio": 0.0,
+                "icon": "ribbon"
+        },
+        {
+                "id": "7",
+                "descripcion": "VIDEOJUEGOS I",
+                "estado": true,
+                "palabras": [
+                        {
+                                "palabra": "Gears of wars",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Call of duty",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Forza",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "FIFA",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "PES",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Top gear",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Mario Bross",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Donkey Kong",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Contra",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "GTA",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Tetris",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Fortnite",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Pac-Man",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Bomberman",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Metal Gear",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Need for Speed",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Sonic",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Final Fantasy",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Pinball",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Zelda",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Mario Party",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Mario Kart",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Halo",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Mortal Kombat",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Killer Instict",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Street Fighter",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Super Smash Bros",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Los sims",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Doom",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Angry Birds",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Candy crush",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Minecraft",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Resident Evil",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Silent Hill",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Tony Hawk",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Tomb Raider",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Goldeneye",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Pokemon GO",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Clash of clans",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Battlefield",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Crash bandicoot",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Assassin´s Creed",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Counter-Strike",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Space Invaders",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Super Mario Odyssey",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Overcooked",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Tekken",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Megaman",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "SimCity",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Prince of Persia",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Paperboy",
+                                "pista": ""
+                        }
+                ],
+                "gratis": false,
+                "precio": 1.00,
+                "icon": "logo-game-controller-b"
+        },
+        {
+                "id": "8",
+                "descripcion": "FAMOSOS I",
+                "estado": true,
+                "palabras": [
+                        {
+                                "palabra": "Adolf Hitler",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Pablo Escobar",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Made teresa de calcuta",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Nairo Quintana",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Egan Bernal",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Roger Federer",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Michael Jordan",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Rigoberto Uran",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Cristiano Ronaldo",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Messi",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "James Rodriguez",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "El pibe Valderrama",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Ronaldo",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Alberto Contador",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Michael Jackson",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Tiger Woods",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Michael Phelps",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Lebron James",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Maradona",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Pelé",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Don Francisco",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Dra. Polo",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Nelson Mandela",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Albert Einstein",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Nicolas Copérnico",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Galileo Galei",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Charles Darwin",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Platón",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Sócrates",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "George Washington",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "William Shakespeare",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Napoleón Bonaparte",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Roberto Gomez Bolaños",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Aristóteles",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Cristóbal Colón",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Isaac Newton",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Wolfgang Amadeus Mozart",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Sigmund Freud",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Martin Luther King",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Muhammad Alí",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Pitágoras",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Bill Gates",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Steve Jobs",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Nikola Tesla",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Thomas Alva Edison",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Karl Marx",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Mike Tyson",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Julio César",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Jesús de Nazaret",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Mahatma Gandhi",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Frida Kahlo",
+                                "pista": ""
+                        }
+                ],
+                "gratis": false,
+                "precio": 1.00,
+                "icon": "contact"
+        },
+        {
+                "id": "9",
+                "descripcion": "OBJETOS I",
+                "estado": true,
+                "palabras": [
+                        {
+                                "palabra": "Prueba de embarazo",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Collar de perlas",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Airpods",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Juego de mesa",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Bodegon",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Agenda",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Relicario",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Caminadora",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Bolsa de basura",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Citófono",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Carné estudiantil",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Control remoto",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Mesa de noche",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Aviso",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Manual",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Pasabordo",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Telegráma",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "VHS",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Diskette",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Molino de viento",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Velero",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Bombilla",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Filamento",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Muñeco",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Alfíl",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Caballo de Troya",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Horrocrux",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Lápida",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Lanza",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Carpa",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Máquina de Escribir",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Tamagotchi",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Aire acondicionado",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Display",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Florero de Llorente",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Gafas 3D",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Cartucho",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Cono",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Zapatilla",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Daga",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Reloj de arena",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Ouija",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Máquina del tiempo",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Estuche",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Cajero",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Banca",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Monopatín",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Bomba de gasolina",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Carro de bomberos",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Folder",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Portaretrato",
+                                "pista": ""
+                        }
+                ],
+                "gratis": false,
+                "precio": 1.00,
+                "icon": "cube"
+        },
+        {
+                "id": "10",
+                "descripcion": "CANCIONES I",
+                "estado": true,
+                "palabras": [
+                        {
+                                "palabra": "When Love Takes Over (Kelly Rowland)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La bamba (Ritchie Valens)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "El himno a la alegria (Miguel Ríos)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Billie Jean (Michael Jackson)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Bohemian Rhapsody (Freddie Mercury)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "I Gotta Feeling (Black Eyed Peas)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Blurred Lines (Robin Thicke ft. Pharrell Williams, T.I.)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Y.M.C.A. (Village People)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Volaré (Gipsy Kings)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Un beso y una flor (Nino Bravo)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La canción más bonita del mundo (La oreja de Van Gogh)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Vivir sin aire (Maná)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Un millón de amigos (Roberto Carlos)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Inevitable (Shakira)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Thriller (Michael Jackson)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Baby One More Time (Britney Spears)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Single Ladies (Beyonce)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Sorry (Justin Bieber)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Man Down (Rihanna)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Por ti volare (Andrea Bocelli)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Musica ligera (Soda Stereo)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La tierra del olvido (Carlos Vives)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La vida loca (Ricky Martin)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Devuelmeme a mi chica (Hombres G)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Gasolina (Daddy Yankee)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Bailando (Enrique Iglesias)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Mariposa Traicionera (Maná)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Corazón partio (Alejandro Sanz)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Despacito (Luis Fonsi)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Lamento Boliviano (Enanitos Verdes)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La tortura (Shakira)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Burbujas de amor (Juan Luis Guerra)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La camisa negra (Juanes)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "No me doy por vencido (Luis Fonsi)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "A Dios le pido (Juanes)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Se fue (Laura Pausini)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Mayonesa (Chocolate Latino)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Amante bandido (Miguel Bose)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "El baile de los que sobran (Los prisioneros)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Flaca (Andres Calamaro)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Ojalá que llueva café (Juan Luis Guerra)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Ruben Blades (Pedro Navaja)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Color esperanza (Diego Torres)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "La vida es un carnaval (Celia Cruz)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "El duelo (La ley)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "En el muelle de san blas (Maná)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Bolera Falaz (Aterciopelados)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Atrevete-te-te (Calle 13)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Querida (Juan Gabriel)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "El cantante (Hector Lavoe)",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Me voy (Julieta Venegas)",
+                                "pista": ""
+                        }
+                ],
+                "gratis": false,
+                "precio": 1.00,
+                "icon": "musical-note"
+        },
+        {
+                "id": "11",
+                "descripcion": "MÚSICOS I",
+                "estado": true,
+                "palabras": [
+                        {
+                                "palabra": "Ludwig van Beethoven",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Wolfgang Amadeus Mozart",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Antonio Vivaldi",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Johann Sebastian Bach",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "J Balvin",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Daddy Yankee",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Celine Dion",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Whitney Houston",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Michael Jackson",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Elton John",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Gustavo Cerati",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Shakira",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Jennifer Lopez",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Adele",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Bruno Mars",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Rihanna",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Eminem",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Carlos Vives",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Beyoncé",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Lady Gaga",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "David Guetta",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Taylor Swift",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Amy Winehouse",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Selena",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Miley Cyrus",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Enrique Iglesias",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Chayanne",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Ricky Martin",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Juan Gabriel",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Marco Antonio Solis",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Marc Anthony",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Justin Bieber",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Britney Spears",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Christina Aguilera",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Freddie mercury",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Elvis Presley",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Ritchie Valens",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Madonna",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Nicki Minaj",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Pink",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Don Omar",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Nicky Jam",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Alejandro Sanz",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Marilyn Manson",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Tiesto",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Sean Paul",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "50 Cent",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Cher",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Bob Sinclar",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Bob Marley",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Andrea Bocelli",
+                                "pista": ""
+                        }
+                ],
+                "gratis": false,
+                "precio": 1.00,
+                "icon": "microphone"
+        },
+        {
+                "id": "12",
+                "descripcion": "ACTUACIÓN I",
+                "estado": true,
+                "palabras": [
+                        {
+                                "palabra": "Flores Carmesí",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Palomas campesinas",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "El tigre silencioso",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Sombras suaves",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Cielo revuelto",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Luz vacia",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Ojos oscuros",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Torres lejanas",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Desierto cálido",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Monte infinito",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Jarra legendaria",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Espada gigante",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Sombrero horrible",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Biblia bella",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Vela increible",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Anclas podridas",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Pistola limpia",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Manilla suelta",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Madera podrida",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Pelota desinflada",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Investigación congelada",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Película sin calificar",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Atentado disperso",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Gabinete flaco",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Pantalones cortos",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Calzoncillos largos",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Aseo contrario",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Limpieza profunda",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Alegría fea",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Sombrero vueltiao",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Lampara mágica",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Cajón decorado",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Nevera congelada",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Estufa sucia",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Caldero ardiente",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Cantante ronco",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Pantalla afónica",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Sabana decente",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Entrenador furioso",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Persona pesimista",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Candado pesado",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Avión lento",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Animal pensativo",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Perro descalzo",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Arena fria",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Selva virgen",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Arroyo peligroso",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Alma piadosa",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Corazón confundido",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Flecha desviada",
+                                "pista": ""
+                        },
+                        {
+                                "palabra": "Cabeza rapada",
+                                "pista": ""
+                        }
+                ],
+                "gratis": false,
+                "precio": 1.00,
+                "icon": "body"
+        }
+]

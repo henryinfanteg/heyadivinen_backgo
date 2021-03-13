@@ -1,0 +1,58 @@
+[    
+    {
+        "id": "API_WORDS",
+        "name": "API WORDS",
+        "description": "",
+        "endpoint": "/api/words",
+        "status": false,
+        "capabilities": [{
+                "name": "GetAll",
+                "method": "GET",
+                "path": "",
+                "minimalRole": 2,
+                "permissions": "READ",
+                "status": true
+            },
+            {
+                "name": "GetById",
+                "method": "GET",
+                "path": "/:id",
+                "minimalRole": 2,
+                "permissions": "READ",
+                "status": true
+            },
+            {
+                "name": "Count",
+                "method": "GET",
+                "path": "/count",
+                "minimalRole": 2,
+                "permissions": "READ",
+                "status": true
+            },
+            {
+                "name": "Create",
+                "method": "POST",
+                "path": "",
+                "minimalRole": 2,
+                "permissions": "ADD",
+                "status": true
+            },
+            {
+                "name": "Update",
+                "method": "PUT",
+                "path": "/:id",
+                "minimalRole": 2,
+                "permissions": "UPDATE",
+                "status": true
+            },
+            {
+                "name": "Delete",
+                "method": "DELETE",
+                "path": "/:id",
+                "minimalRole": 1,
+                "permissions": "DELETE",
+                "status": true
+            }
+        ]
+    }
+]
